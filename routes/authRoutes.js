@@ -7,6 +7,7 @@ module.exports = (app) => {
       scope: ["profile", "email"],
     })
   );
+  // adding comment to try new commit and push
 
   app.get(
     "/auth/google/callback",
