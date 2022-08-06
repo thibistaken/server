@@ -1,4 +1,5 @@
-// adding a shit comment to attemp another commit and push to heroku
+// removed npm install --prefix client && npm run build --prefix client
+
 const express = require("express");
 const mongoose = require("mongoose");
 const cookieSession = require("cookie-session");
