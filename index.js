@@ -1,4 +1,3 @@
-// adding a shit comment to attemp another commit and push to heroku
 const express = require("express");
 const mongoose = require("mongoose");
 const cookieSession = require("cookie-session");
